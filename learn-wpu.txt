@@ -2,5 +2,4 @@ Github
 
 - repository
 - branch
-- false
 - merge
